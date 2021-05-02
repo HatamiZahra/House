@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+numpy
+scipy.stats
+scipy.special
+sklearn {linear_model, metrics, model selection}
+pickle
